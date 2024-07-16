@@ -1,0 +1,32 @@
+---
+
+galaxy_info:
+    author: "Stephen Williams, Frederick Witty Jr."
+    description: "Ansible role to apply Windows Server 2022 CIS Benchmark"
+    company: "GSA"
+    license: MIT
+    namespace: mindpointgroup
+    role_name: ansible-os-win-2022
+    min_ansible_version: 2.10.0
+    platforms:
+        - name: Windows
+          versions:
+              - "2022"
+    galaxy_tags:
+        - system
+        - security
+        - cis
+        - hardening
+        - benchmark
+        - microsoft
+        - windows
+        - complianceascode
+        - compliance
+        - gsa
+
+    collections:
+        - ansible.windows
+        - community.windows
+        - community.general
+
+    dependencies: []
