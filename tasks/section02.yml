@@ -313,7 +313,7 @@
       users:
           - Guests
           - Local Account
-          - Administrators
+          #- Administrators
       action: add
   when:
       - win22cis_rule_2_2_21
