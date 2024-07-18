@@ -638,9 +638,10 @@ win22cis_inactivity_timeout_seconds: 900
 # win22cis_legal_notice is the setting that specifies a text message that displays to users when they log on.
 # Configure this setting in a manner that is consistent with the security and operational requirements of your organization.
 win22cis_legal_notice: |
-    This is a U.S. General Services Administration Federal Government computer system that is FOR OFFICIAL USE ONLY.
-    This system is subject to monitoring. Therefore, no expectation of privacy is to be assumed. 
-    Individuals found performing unauthorized activities may be subject to disciplinary action including criminal prosecution.
+    This is a U.S. General Services Administration Federal Government computer system 
+    that is FOR OFFICIAL USE ONLY.This system is subject to monitoring. Therefore, no 
+    expectation of privacy is to be assumed. Individuals found performing unauthorized 
+    activities may be subject to disciplinary action including criminal prosecution.
 
 # 2.3.7.5
 # win22cis_legal_notice_caption is the policy setting that specifies the text displayed in the title bar of the window that users see
