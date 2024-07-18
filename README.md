@@ -1,6 +1,6 @@
 Windows Server 2022 GSA Benchmarks
 ==================================
-Configure Windows 2022 machine to be GSA compliant. Level 1 and 2 findings will be corrected by default. It's based on [Windows Server 2022 GSA Benchmarks](https://docs.google.com/spreadsheets/d/1r22JJGcyfotlCZjmiDWWHGamVDlTNNb32c-QpdP6R4w/edit?gid=884169645#gid=884169645).
+Configure Windows 2022 machine to be GSA compliant. Level 1 and 2 findings will be corrected by default. It's based on [Windows Server 2022 GSA Benchmarks](https://docs.google.com/spreadsheets/d/17JaxVUd8E_GtASqmSIEcvCFR1n9zEHYgWuOIz08QTIc/edit?gid=884169645#gid=884169645).
 
 
 Role Variables
